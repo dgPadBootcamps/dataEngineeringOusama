@@ -1,6 +1,6 @@
 
 # Get user input
-query = input("Input Search Query Please: ")
+query = input("Isearch qquery requeried: ")
 
 # As long as the query is valid (not empty or equal to '#')...
 
