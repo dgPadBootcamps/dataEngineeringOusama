@@ -8,7 +8,7 @@ import json
 import random
 import logging
 import re
-import base
+from data_collection import base
 import string
 import time
 import typing
